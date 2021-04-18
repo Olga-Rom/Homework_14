@@ -613,6 +613,9 @@ body {
   top: 25%;
   left: 100%;
 }
+.page-new {
+  background: #F8F8F8;
+}
 
 .new {
   max-width: 1110px;
@@ -703,6 +706,7 @@ body {
 .new__container-text {
   width: 380px;
   padding: 32px 33px 33px 32px;
+  background: white;
 }
 
 .new__item-header {
@@ -748,6 +752,7 @@ body {
 .new__block-footer {
   padding: 14px 16px 16px 16px;
   width: 350px;
+  background: white;
 }
 
 .new__item-text {
